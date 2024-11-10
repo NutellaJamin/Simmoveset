@@ -1,4 +1,4 @@
-## SimDjam's Moveset v1.0
+## SimDjam's Moveset
 
 Category: Moveset
 
